@@ -5,7 +5,7 @@ write me a powerful youtube video script keep it super lengthy yet interesting a
 ```
 
 ```
-Read aloud in a very fast paced and cartoon tone:
+Read aloud in a very fast paced and cartoon man voice:
 ```
 
 1. **Time Management Secrets That Supercharge Your Productivity and Success**
