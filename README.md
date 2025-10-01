@@ -5,7 +5,7 @@ write me a powerful youtube video script keep it super lengthy yet interesting a
 ```
 
 ```
-Read aloud in a very fast paced and cartoon man voice:
+Read aloud in a very fast paced cartoon man voice:
 ```
 
 ```
