@@ -8,6 +8,11 @@ write me a powerful youtube video script keep it super lengthy yet interesting a
 Read aloud in a very fast paced and cartoon man voice:
 ```
 
+```
+give me perfect prompt too for making thumbnail for the video
+
+the prompt should make the thumbnail look like it is made by professionals and immediately hook the viewers. complete brainrot stuff with stickman figures is how the actual video is made.
+```
 1. **Time Management Secrets That Supercharge Your Productivity and Success**
 
 2. **The Morning Routine That Transforms Productivity and Guarantees Success**
