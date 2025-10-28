@@ -7,6 +7,9 @@ write me a powerful youtube video script keep it super lengthy yet interesting a
 Read aloud in a very fast paced cartoon man voice:
 ```
 ```
+Read aloud in a fast paced stylish american woman voice:
+```
+```
 give me perfect prompt too for making thumbnail for the video
 
 the prompt should make the thumbnail look like it is made by professionals and immediately hook the viewers. complete brainrot stuff with stickman figures is how the actual video is made.
