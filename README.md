@@ -3,20 +3,18 @@
 ```
 write me a powerful youtube video script keep it super lengthy yet interesting and brain rotting.
 ```
-```
-Read aloud in a very fast paced cartoon man voice:
-```
+
+
 ```
 Read aloud in a medium paced stylish american youtube vlog woman with hyper active bright voice: leda
 ```
-```
-give me perfect prompt too for making thumbnail for the video
 
-the prompt should make the thumbnail look like it is made by professionals and immediately hook the viewers. complete brainrot stuff with stickman figures is how the actual video is made.
-```
+
 ```
 given any introspective, feminine self-growth, or mindset title, generate an extremely long, lowercase, comma-separated list of poetic, emotionally intelligent, keyword-rich phrases (like pinterest/youtube/tiktok tags) that capture its deeper themes — include mindset, healing, detachment, confidence, self respect, peace, glow up, emotional intelligence, self love, boundaries, transformation, discipline, and feminine psychology — make it super lengthy, beautifully worded, and relevant to the title.
 ```
+
+
 ```
 #DailyAffirmations #PositiveAffirmations #MorningAffirmations #NightAffirmations #SpokenAffirmations #MindsetShift #GrowthMindset #AbundanceMindset #HealingAffirmations #ManifestationMindset #LawOfAttraction #ManifestWithMe #IAmAffirmations #SpiritualAwakening #SelfHealing #SubconsciousReprogramming #InnerPeace #InnerStrength #SelfAwareness #PersonalGrowth #SelfImprovement #SelfLoveJourney #EmotionalHealing #EnergyHealing #MotivationDaily #YouCanDoIt #TakeAction #SuccessMindset #LevelUp #SelfDiscipline #MentalFitness #ConsistencyIsKey #FacelessYouTube #VoiceOnly #FacelessChannel #MeditationChannel #HealingVibes #SoothingContent #CalmEnergy #VisualMeditation  
 #ElevateYourMindset #RewireYourMind #PowerfulAffirmations #SilentGrowth #MindsetMatters #DailyMotivation #AffirmationPractice #NewBeliefs #InnerAlignment #HigherSelf #ReprogramYourMind #CalmAndConfident #DailyMantras #BelieveInYourself #WatchThisDaily #MindfulnessPractice #EmotionalBalance #SelfLoveFirst #HighVibration #DailyHealing #ConfidenceBoost #MotivationalShorts #PeacefulMind #SelfDiscovery #ShiftYourVibe #ConsciousLiving #InspiredLiving #DailyEncouragement #ManifestYourLife #ChangeYourStory #ElevateDaily #InnerWork #RiseWithin #SoulFuel #CalmClarity #steveharvey #steveharveyinspiration #MindsetElevation #ReclaimYourPower #StillnessSpeaks #FocusWithin #PeaceAffirmations
