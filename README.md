@@ -15,7 +15,7 @@ give me perfect prompt too for making thumbnail for the video
 the prompt should make the thumbnail look like it is made by professionals and immediately hook the viewers. complete brainrot stuff with stickman figures is how the actual video is made.
 ```
 ```
-write me highly seo optimsed and humanly feel video description for this video
+given any introspective, feminine self-growth, or mindset title, generate an extremely long, lowercase, comma-separated list of poetic, emotionally intelligent, keyword-rich phrases (like pinterest/youtube/tiktok tags) that capture its deeper themes — include mindset, healing, detachment, confidence, self respect, peace, glow up, emotional intelligence, self love, boundaries, transformation, discipline, and feminine psychology — make it super lengthy, beautifully worded, and relevant to the title.
 ```
 ```
 #DailyAffirmations #PositiveAffirmations #MorningAffirmations #NightAffirmations #SpokenAffirmations #MindsetShift #GrowthMindset #AbundanceMindset #HealingAffirmations #ManifestationMindset #LawOfAttraction #ManifestWithMe #IAmAffirmations #SpiritualAwakening #SelfHealing #SubconsciousReprogramming #InnerPeace #InnerStrength #SelfAwareness #PersonalGrowth #SelfImprovement #SelfLoveJourney #EmotionalHealing #EnergyHealing #MotivationDaily #YouCanDoIt #TakeAction #SuccessMindset #LevelUp #SelfDiscipline #MentalFitness #ConsistencyIsKey #FacelessYouTube #VoiceOnly #FacelessChannel #MeditationChannel #HealingVibes #SoothingContent #CalmEnergy #VisualMeditation  
