@@ -10,6 +10,7 @@ Read aloud in a medium paced stylish american youtube vlog woman with hyper acti
 ```
 
 
+Keywords list prompt:
 ```
 given any introspective, feminine self-growth, or mindset title, generate an extremely long, lowercase, comma-separated list of poetic, emotionally intelligent, keyword-rich phrases (like pinterest/youtube/tiktok tags) that capture its deeper themes — include mindset, healing, detachment, confidence, self respect, peace, glow up, emotional intelligence, self love, boundaries, transformation, discipline, and feminine psychology — make it super lengthy, beautifully worded, and relevant to the title.
 ```
