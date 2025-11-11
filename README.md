@@ -1,11 +1,6 @@
 # Productivity-Channel
 
 ```
-write me a powerful youtube video script keep it super lengthy yet interesting and brain rotting.
-```
-
-
-```
 Read aloud in a medium paced stylish american youtube vlog woman with hyper active bright voice: leda
 ```
 
