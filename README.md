@@ -3,8 +3,9 @@
 ```
 Read aloud in a medium paced stylish american youtube vlog woman with hyper active bright voice: leda
 ```
-
-
+```
+Thank you for joining me today. I'll see you tomorrow on Glow and Flow.
+```
 Keywords list prompt:
 ```
 given any introspective, feminine self-growth, or mindset title, generate an extremely long, lowercase, comma-separated list of poetic, emotionally intelligent, keyword-rich phrases (like pinterest/youtube/tiktok tags) that capture its deeper themes — include mindset, healing, detachment, confidence, self respect, peace, glow up, emotional intelligence, self love, boundaries, transformation, discipline, and feminine psychology — make it super lengthy, beautifully worded, and relevant to the title.
