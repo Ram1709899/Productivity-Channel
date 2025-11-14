@@ -59,7 +59,7 @@ Deliver clean and ready for production.
 
 
 ```
-Read aloud in a medium paced stylish american youtube vlog woman with hyper active bright voice: leda
+Read aloud in a medium paced stylish american youtube vlog woman with hyper active bright voice: leda kore
 ```
 ```
 Thank you for joining me today. I'll see you tomorrow on Glow and Flow.
