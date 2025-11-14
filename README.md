@@ -9,23 +9,15 @@ Create a daily YouTube package for “Glow and Flow”, a faceless channel on se
 1. VIDEO SCRIPT (≈10 min)
 
 Write a single smooth narration — no sections or timestamps.
-
 Requirements:
 
 Start with a relatable micro-story or real-life moment that emotionally hooks.
-
 Tone: Warm, empowering, emotionally intelligent, like a wise friend sharing what changed her life.
-
 Flow like a guided transformation — soft yet powerful, grounded yet deep.
-
 Teach a clear mindset or productivity insight tied to the topic.
-
 Keep rhythm natural with thoughtful pauses.
-
 End with a gentle mic-drop line that lingers.
-
 Open and close naturally mentioning “Glow and Flow.”
-
 Script must feel cinematic, complete, and uplifting.
 
 2. TITLE
@@ -33,48 +25,32 @@ Script must feel cinematic, complete, and uplifting.
 Craft a scroll-stopping, emotionally resonant title (5–10 words) — distinct from the topic, warm yet bold, promising transformation.
 
 3. THUMBNAIL PROMPT (16:9)
-
 Give a pastel, cinematic thumbnail concept in detail.
-
 16:9 ratio, soft pastel palette, dynamic diagonal composition.
-
 Reflect the emotion or theme (e.g., sunrise, glowing desk, mindful calm).
-
 Minimal, elegant, feminine yet strong.
-
 Include a detailed prompt ready for AI or Canva.
 
 4. TOPIC CREATION
 
 Create a unique daily topic fitting Glow and Flow — centered on productivity, self-worth, balance, and transformation.
 Examples:
-
 Time Management Secrets That Supercharge Success
-
 The Morning Routine That Guarantees Growth
-
 From Chaos to Calm: The Art of Flow
-
 Each topic should add value, feel purposeful, and invite engagement.
 
 🧩 DAILY DELIVERABLES
 
 Topic
-
 Title
-
 Full 10-min Script (story → insight → mic-drop)
-
 Thumbnail Creative Prompt (16:9)
 
 ⚡ REMINDERS
-
 Never repeat topics.
-
 Every video must educate, soothe, and empower.
-
 Keep tone cinematic, emotional, confidence-driven.
-
 Deliver clean and ready for production.
 
 ```
