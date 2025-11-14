@@ -5,9 +5,9 @@
 ## GF GOLD PROMPT — USE THIS EVERY DAY
 
 ```
-Goal:
+Today's Topic :
 Create a daily YouTube package for “Glow and Flow”, a feminine, faceless channel on self-growth, calm productivity, energy mastery, and mindset transformation.
-Every video must feel cinematic, intimate, and emotionally magnetic — like a soft glow-up for the mind.
+The video must feel cinematic, intimate, and emotionally magnetic — like a soft glow-up for the mind.
 
 🎬 OUTPUT REQUIREMENTS
 1. TOPIC (Unique Daily Concept)
