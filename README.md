@@ -32,7 +32,7 @@ Cinematic Aesthetic Title
 Each must feel feminine, captivating, and aspirational.
 
 3. THUMBNAIL PACKAGE (16:9 Pastel)
-
+the complete thumbnail prompt must a single flow single paragraph prompt.
 Provide:
 Thumbnail Concept: pastel, canva graphics based, dreamy, diagonal composition, soft glow
 Thumbnail Text: 2–4 words, emotionally charged
