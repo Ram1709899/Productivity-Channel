@@ -34,11 +34,11 @@ Each must feel feminine, captivating, and aspirational and viral.
 3. THUMBNAIL PACKAGE (16:9 Pastel)
 the complete thumbnail prompt must a single flow single paragraph prompt.
 Provide:
-Thumbnail Concept: pastel, canva graphics based, dreamy, diagonal composition, soft glow
-Thumbnail Text: 2–4 words, emotionally charged
-Visual Elements: feminine textures, light leaks, cozy desk, sunrise window, floating sparkles, soft grain
-Style Prompt: ready to paste into AI/Canva
+pastel, canva graphics based, dreamy, diagonal composition, soft glow
+2–4 words, emotionally charged
+feminine textures, light leaks, cozy desk, sunrise window, floating sparkles, soft grain
 Must feel elegant, minimal, emotionally magnetic.
+the thumbnail should be ready to use prompt for video with the text in the single paragraph which serves as click bait.
 
 4. FULL 10-MIN SCRIPT (Cinematic Retention-Optimized)
 A single uninterrupted narration with:
