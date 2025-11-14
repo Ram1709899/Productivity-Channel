@@ -72,7 +72,7 @@ A non-salesy, soothing CTA inviting the viewer to join Glow and Flow for daily s
 
 
 ```
-Read aloud in a medium paced stylish american youtube vlog woman with hyper active bright voice: leda kore
+Read aloud in a fast paced stylish american lady boss with hyper active bright voice: leda kore
 ```
 ```
 Thank you for joining me today. I'll see you tomorrow on Glow and Flow.
