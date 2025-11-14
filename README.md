@@ -25,11 +25,11 @@ Topic must feel purposeful and click-worthy.
 
 2. TITLE (5–10 Words, 3 Options)
 
-Provide three scroll-stopping title variations:
+Provide three scroll-stopping brain rotting style title variations:
 Soft Call-Out Title (emotionally confronting)
-Warm Transformation Title
-Cinematic Aesthetic Title
-Each must feel feminine, captivating, and aspirational.
+Warm Transformation Title that should act as click bait
+viral making and most used Title
+Each must feel feminine, captivating, and aspirational and viral.
 
 3. THUMBNAIL PACKAGE (16:9 Pastel)
 the complete thumbnail prompt must a single flow single paragraph prompt.
