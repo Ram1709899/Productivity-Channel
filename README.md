@@ -5,6 +5,10 @@
 ## GF GOLD PROMPT — USE THIS EVERY DAY
 
 ```
+need a pop art style canva graphics based aesthetic feminine thumbnail prompt in single paragraph
+```
+
+```
 Today's Topic :
 Create a daily YouTube package for “Glow and Flow”, a feminine, faceless channel on self-growth, calm productivity, energy mastery, and mindset transformation.
 The video must feel cinematic, intimate, and emotionally magnetic — like a soft glow-up for the mind.
