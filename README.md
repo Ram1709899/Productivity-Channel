@@ -104,11 +104,31 @@ Pinned comment:
 Also add a pinned comment draft that reinforces the hook and pushes engagement
 ```
 
-Grok:
+Titles:
 ```
-A conceptual image depicting "Why Time Management Fuels Success More Than Talent or Luck", illustrated through 
-its own specific scenes which can be relatable to the theme
-presented from a dynamic, diagonal-angle perspective for vibrant visual energy.
+Here are 10 curiosity-driven titles commonly used and proven to get clicks on YouTube (based on top performing and trending formats in actual usage):
+
+This Changed My Life Forever…
+
+The Truth About [Topic] Nobody Tells You
+
+I Tried [Hard Challenge] for 30 Days – Here’s What Happened
+
+You’re Doing It Wrong: Stop Making This Mistake!
+
+What I Wish I Knew Before Starting [Journey/Skill]
+
+The Dark Secret Behind [Topic]
+
+Most People Have No Idea This Exists…
+
+I Stopped [Popular Habit] for a Month – The Results Shocked Me!
+
+How I [Achieved Something Amazing] with Just [Simple Method]
+
+Do This If You Want [Desirable Result]
+
+Each of these title formats is widely used and drives strong curiosity based on real-world data and current YouTube trends. Adjust to fit your topic for best results!
 ```
 
 1. **Time Management Secrets That Supercharge Your Productivity and Success**
